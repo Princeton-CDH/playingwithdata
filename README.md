@@ -33,3 +33,17 @@ and literary life in Paris during the early twentieth century.
 
 `s-co_members_by_year.csv` details the number of members added per year.
 `s-co_members_by_yearmonth.csv` details the number of members added by year and month.
+
+## CDN Links
+
+### LAE
+
+* [argentina_human_civil_rights.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/LAE/argentina_human_civil_rights.csv)
+* [bolivia_agrarian_rural_issues.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/LAE/bolivia_agrarian_rural_issues.csv)
+* [bolivia_minorities_ethnic_racial_groups.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/LAE/bolivia_minorities_ethnic_racial_groups.csv)
+* [chile_human_civil_rights.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/LAE/chile_human_civil_rights.csv)
+
+### S&Co.
+
+* [s-co_members_by_year.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/s-co/s-co_members_by_year.csv)
+* [s-co_members_by_yearmonth.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/s-co/s-co_members_by_yearmonth.csv)
