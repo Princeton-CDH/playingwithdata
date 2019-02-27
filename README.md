@@ -34,16 +34,26 @@ and literary life in Paris during the early twentieth century.
 `s-co_members_by_year.csv` details the number of members added per year.
 `s-co_members_by_yearmonth.csv` details the number of members added by year and month.
 
+### Climate Datasets
+
+This data is obtained from NASA's [Vital Signs](https://climate.nasa.gov/vital-signs/) website. The columns in the [temperature data](https://climate.nasa.gov/vital-signs/global-temperature) list the year, raw temperature offset, and smoothed temperature offset.
+
 ## CDN Links
 
 ### LAE
 
-* [argentina_human_civil_rights.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/LAE/argentina_human_civil_rights.csv)
-* [bolivia_agrarian_rural_issues.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/LAE/bolivia_agrarian_rural_issues.csv)
-* [bolivia_minorities_ethnic_racial_groups.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/LAE/bolivia_minorities_ethnic_racial_groups.csv)
-* [chile_human_civil_rights.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/LAE/chile_human_civil_rights.csv)
+* [argentina_human_civil_rights.csv](https://raw.githubusercontent.com/Princeton-CDH/playingwithdata/master/data/LAE/argentina_human_civil_rights.csv)
+* [bolivia_agrarian_rural_issues.csv](https://raw.githubusercontent.com/Princeton-CDH/playingwithdata/master/data/LAE/bolivia_agrarian_rural_issues.csv)
+* [bolivia_minorities_ethnic_racial_groups.csv](https://raw.githubusercontent.com/Princeton-CDH/playingwithdata/master/data/LAE/bolivia_minorities_ethnic_racial_groups.csv)
+* [chile_human_civil_rights.csv](https://raw.githubusercontent.com/Princeton-CDH/playingwithdata/master/data/LAE/chile_human_civil_rights.csv)
 
 ### S&Co.
 
-* [s-co_members_by_year.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/s-co/s-co_members_by_year.csv)
-* [s-co_members_by_yearmonth.csv](https://rawcdn.githack.com/Princeton-CDH/playingwithdata/8d16cd67ef53a7d0cad0816a90304c80db97ebdf/data/s-co/s-co_members_by_yearmonth.csv)
+* [s-co_members_by_year.csv](https://raw.githubusercontent.com/Princeton-CDH/playingwithdata/master/data/s-co/s-co_members_by_year.csv)
+* [s-co_members_by_yearmonth.csv](https://raw.githubusercontent.com/Princeton-CDH/playingwithdata/master/data/s-co/s-co_members_by_yearmonth.csv)
+
+### Climate
+
+* [annual_temperature.csv](https://raw.githubusercontent.com/Princeton-CDH/playingwithdata/master/data/climate/annual_temperature.csv)
+
+
