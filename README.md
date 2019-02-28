@@ -63,6 +63,10 @@ This data is obtained from NASA's [Vital Signs](https://climate.nasa.gov/vital-s
 * [s-co_members_by_year.csv](https://raw.githubusercontent.com/Princeton-CDH/playingwithdata/master/data/s-co/s-co_members_by_year.csv)
 * [s-co_members_by_yearmonth.csv](https://raw.githubusercontent.com/Princeton-CDH/playingwithdata/master/data/s-co/s-co_members_by_yearmonth.csv)
 
+### Derrida
+
+* [ofgrammatology-references.csv](https://raw.githubusercontent.com/Princeton-CDH/playingwithdata/master/data/derrida/ofgrammatology-references.csv)
+
 ### Climate
 
 * [annual_temperature.csv](https://raw.githubusercontent.com/Princeton-CDH/playingwithdata/master/data/climate/annual_temperature.csv)
