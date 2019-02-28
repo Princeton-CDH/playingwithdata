@@ -34,6 +34,17 @@ and literary life in Paris during the early twentieth century.
 `s-co_members_by_year.csv` details the number of members added per year.
 `s-co_members_by_yearmonth.csv` details the number of members added by year and month.
 
+### Derrida's Margins datasets
+
+Data from [Derrida's Margins](https://derridas-margins.princeton.edu/),
+which all of documents Jacques Derrida's references in _de la Grammatologie_
+(_Of Grammatology_)and connects them to correponding annotations in his
+own copies of the referenced books.
+
+`ofgrammatology-references.csv` provides counts of references per page
+for each page in _Of Grammatology_.
+
+
 ### Climate Datasets
 
 This data is obtained from NASA's [Vital Signs](https://climate.nasa.gov/vital-signs/) website. The columns in the [temperature data](https://climate.nasa.gov/vital-signs/global-temperature) list the year, raw temperature offset, and smoothed temperature offset.
