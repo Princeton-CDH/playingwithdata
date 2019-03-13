@@ -6,6 +6,35 @@ series of workshops hosted by the
 Princeton [Center for Digital Humanities](https://cdh.princeton.edu) and
 the [Council on Science and Technology Studio Lab](https://cst.princeton.edu/studiolab).
 
+## Workshop Outline
+
+p5.js [editor](https://editor.p5js.org/), [reference](https://p5js.org/reference/), [examples](https://p5js.org/examples/)
+
+### References
+- [loadTable()](https://p5js.org/reference/#/p5/loadTable) [getColumn()](https://p5js.org/reference/#/p5.Table/getColumn) [getColumnCount()](https://p5js.org/reference/#/p5.Table/getColumnCount) (more p5 Table functions here)
+- [line()](https://p5js.org/reference/#/p5/line), [beginShape()](https://p5js.org/reference/#/p5/beginShape)
+- [random()](https://p5js.org/reference/#/p5/random), [map()](https://p5js.org/reference/#/p5/map), [min()](https://p5js.org/reference/#/p5/min), [max()](https://p5js.org/reference/#/p5/max)
+
+### Code-Alongs
+- [Intro to Animation](https://editor.p5js.org/slcruz/sketches/b2uP4YSNu)
+- [Plotting Data](https://editor.p5js.org/slcruz/sketches/005jy4zME)
+- [Warming Stripes](https://editor.p5js.org/slcruz/sketches/mCzhpwQ_7)
+- [Data Sources](https://github.com/Princeton-CDH/playingwithdata)
+
+### p5 Examples
+- [Data to Text](https://editor.p5js.org/aatish/sketches/kwq05rOSP)
+- [Global Average Temperature Graph](https://editor.p5js.org/aatish/sketches/4i-ATjzhH)
+- [Climate Stripes Animated](https://editor.p5js.org/aatish/sketches/SCZoLYwc4)
+- [Warming Spiral](https://editor.p5js.org/aatish/sketches/24yVBFcjc)
+
+### Data Viz Examples
+- [Gun Violence](https://guns.periscopic.com/?year=2013)
+- [Breast Cancer Causation](http://www.cabreastcancer.org/causes/#)
+- [Links in the Jazz Community](https://linkedjazz.org/network/?mode=wave)
+- [Reimagining Elizabeth Palmer Peabody’s Historical Visualization Work](http://shapeofhistory.net/)
+- [Warming Stripes](https://www.climate-lab-book.ac.uk/2018/warming-stripes/)
+- [Warming Stripes Animated](https://twitter.com/kevpluck/status/1099369629766565888)
+- [Our World in Data](https://ourworldindata.org/)
 
 ## Data Files
 
