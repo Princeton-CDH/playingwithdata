@@ -10,7 +10,9 @@ the [Council on Science and Technology Studio Lab](https://cst.princeton.edu/stu
 
 p5.js [editor](https://editor.p5js.org/), [reference](https://p5js.org/reference/), [examples](https://p5js.org/examples/)
 
-### References
+### Get started drawing in p5: [Robot Chicken Handout](https://github.com/Princeton-CDH/playingwithdata/blob/master/p5%20playing%20with%20data%20workshop%20handout.pdf)
+
+### Links to p5 Reference
 - [loadTable()](https://p5js.org/reference/#/p5/loadTable) [getColumn()](https://p5js.org/reference/#/p5.Table/getColumn) [getColumnCount()](https://p5js.org/reference/#/p5.Table/getColumnCount) (more p5 Table functions here)
 - [line()](https://p5js.org/reference/#/p5/line), [beginShape()](https://p5js.org/reference/#/p5/beginShape)
 - [random()](https://p5js.org/reference/#/p5/random), [map()](https://p5js.org/reference/#/p5/map), [min()](https://p5js.org/reference/#/p5/min), [max()](https://p5js.org/reference/#/p5/max)
