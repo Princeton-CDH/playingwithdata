@@ -18,6 +18,7 @@ p5.js [editor](https://editor.p5js.org/), [reference](https://p5js.org/reference
 - [random()](https://p5js.org/reference/#/p5/random), [map()](https://p5js.org/reference/#/p5/map), [min()](https://p5js.org/reference/#/p5/min), [max()](https://p5js.org/reference/#/p5/max)
 
 ### Code-Alongs
+- [Drawing with Arrays and Loops](https://editor.p5js.org/aatish/sketches/lc2mxdxJa)
 - [Intro to Animation](https://editor.p5js.org/slcruz/sketches/b2uP4YSNu)
 - [Plotting Data](https://editor.p5js.org/slcruz/sketches/005jy4zME)
 - [Warming Stripes](https://editor.p5js.org/slcruz/sketches/mCzhpwQ_7)
